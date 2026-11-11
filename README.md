@@ -10,3 +10,6 @@ Preview:
 
 https://acanxp-cyber.github.io/trellis-preview/
 
+- Privacy: https://acanxp-cyber.github.io/trellis-preview/privacy.html
+- Support: https://acanxp-cyber.github.io/trellis-preview/support.html
+
