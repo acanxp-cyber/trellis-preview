@@ -1,6 +1,6 @@
-# Trellis Design Preview
+# SOMETHING Design Preview
 
-Public static preview for the Trellis high-fidelity design prototype.
+Public static preview for the SOMETHING high-fidelity design prototype.
 
 This repository intentionally contains only the self-contained design preview.
 Production source, architecture records, privacy implementation, tests, and
